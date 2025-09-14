@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "275500489202",
+    "firebase_url": "https://daily-status-874fb.firebaseio.com",
+    "project_id": "daily-status-874fb",
+    "storage_bucket": "daily-status-874fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275500489202:android:3297e436298789eb",
+        "android_client_info": {
+          "package_name": "com.dizitaltrends.dailystatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275500489202-igh4l0h69djufh4rp6t4tn7595i1i87g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dizitaltrends.dailystatus",
+            "certificate_hash": "32925a40fa5896712ca1b88d51df0c9036aec2d9"
+          }
+        },
+        {
+          "client_id": "275500489202-l7p5e1m6simtf7o8543o5056ujp85l9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-n1VtKgQmP2bMZtx7wrXuLBAWrAnqXQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275500489202-l7p5e1m6simtf7o8543o5056ujp85l9o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "275500489202-5g9bj2j7ug3pt2klu3e8ssh2n3gan14s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pkbhai.coonch"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275500489202:android:83d30fad5f077b68b8336b",
+        "android_client_info": {
+          "package_name": "com.pkbhai.bhaktisandesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275500489202-l7p5e1m6simtf7o8543o5056ujp85l9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-n1VtKgQmP2bMZtx7wrXuLBAWrAnqXQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275500489202-l7p5e1m6simtf7o8543o5056ujp85l9o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "275500489202-5g9bj2j7ug3pt2klu3e8ssh2n3gan14s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pkbhai.coonch"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275500489202:android:b18bea02abbc23eeb8336b",
+        "android_client_info": {
+          "package_name": "com.pkbhai.coonch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275500489202-mt5n5o33t4qqjrgifl102ji0fhjvqt4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pkbhai.coonch",
+            "certificate_hash": "32925a40fa5896712ca1b88d51df0c9036aec2d9"
+          }
+        },
+        {
+          "client_id": "275500489202-l7p5e1m6simtf7o8543o5056ujp85l9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-n1VtKgQmP2bMZtx7wrXuLBAWrAnqXQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275500489202-l7p5e1m6simtf7o8543o5056ujp85l9o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "275500489202-5g9bj2j7ug3pt2klu3e8ssh2n3gan14s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pkbhai.coonch"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
